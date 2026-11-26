@@ -1,0 +1,14 @@
+name: songs30k
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - requests
