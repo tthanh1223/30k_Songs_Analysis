@@ -122,3 +122,5 @@ Following the course rules (Section 6 of the project spec):
 
 - Significant = it shaped the content or code: a method, a question idea, a piece of code, a fix for a bug. Not significant: a quick syntax lookup, a typo fix, asking where a file is.
 - Copied code or text from other sources (public notebooks, websites, other groups) is cited where it is used, and public notebooks on this dataset are listed in the Dataset section above.
+
+- Keep track your LLM_USAGE on your local git = merge it at the end (be honest about your work)
